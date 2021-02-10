@@ -3,9 +3,8 @@
 bin/
 obj/
 .vs/
-
-#healthCheck MiddleWare
-healthchecksdb
+.vscode/
 
 #conexoes
 conexoes.json
+appsettings.Development.json
