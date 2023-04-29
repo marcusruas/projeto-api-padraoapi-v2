@@ -1,7 +1,7 @@
 namespace Repositorio.Exemplo.Entidade
 {
-    public class EntidadeDpo
+    public class EntidadeDpos
     {
-        
+
     }
 }
